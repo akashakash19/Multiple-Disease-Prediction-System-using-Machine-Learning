@@ -1,0 +1,2 @@
+# Multiple-Disease-Prediction-System-using-Machine-Learning
+This project is a machine learning–based multiple disease prediction system that predicts the risk of diabetes, heart disease, and Parkinson’s disease using user health data.  The system takes medical input values, processes them using trained ML models, and displays prediction results through a simple and interactive Streamlit web interface.
